@@ -7,7 +7,7 @@
 using namespace std;
 
 int main() {
-    Cout << "Loops and lists!\n";
+    cout << "Loops and lists!\n";
 
     // Creating an array of favorite video games.
     // Variable type is 'string'. size is 5
